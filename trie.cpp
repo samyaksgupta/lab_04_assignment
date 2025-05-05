@@ -21,9 +21,4 @@ class Trie {
 	TrieNode* root;
 	
 	void insertword(string word) {
-	}
-
-
-
-
-
+		edited
