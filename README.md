@@ -1,94 +1,84 @@
 <!-- 🌐 WELCOME TO MY CYBER SPACE 🌐 -->
 
-<html>
-<head>
-<title>samyaksgupta's Digital Realm</title>
-</head>
-<body bgcolor="#000080" text="#ffffff" link="#00ffff" vlink="#ff00ff" alink="#ffff00">
-
 <div align="center">
-<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="50">
-<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="50">
-<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="50">
+<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="30">
+<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="30">
+<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="30">
 <br>
-<font face="Impact" size="7" color="#ff0000">WELCOME TO MY HOMEPAGE</font>
+<font face="Impact" size="6" color="#ff0000">WELCOME TO MY HOMEPAGE</font>
 <br>
-<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="50">
-<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="50">
-<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="50">
+<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="30">
+<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="30">
+<img src="https://web.archive.org/web/20091027005200/http://geocities.com/enchantedforest/dell/5046/fire2.gif" width="30">
 </div>
 
 <br>
 
-<table width="100%" border="3" bordercolor="#00ffff" cellpadding="10" cellspacing="5" bgcolor="#000040">
+<table width="100%" border="2" bordercolor="#00ffff" cellpadding="8" cellspacing="3" bgcolor="#000040">
 <tr>
-<td width="200" valign="top" bgcolor="#000080">
+<td width="25%" valign="top" bgcolor="#000080">
 
 <div align="center">
-<img src="https://web.archive.org/web/20091027144705/http://geocities.com/enchantedforest/dell/5046/construction.gif" width="150">
+<img src="https://web.archive.org/web/20091027144705/http://geocities.com/enchantedforest/dell/5046/construction.gif" width="120">
 <br><br>
-<font face="Comic Sans MS" size="4" color="#ffff00">NAVIGATION</font>
+<font face="Comic Sans MS" size="3" color="#ffff00">NAVIGATION</font>
 <br><br>
 </div>
 
 <font face="Arial" size="2">
-📧 <a href="mailto:deanharoldpabad@gmail.com">EMAIL ME</a><br><br>
-🏠 <a href="#about">ABOUT</a><br><br>
-💻 <a href="#projects">MY PROJECTS</a><br><br>
-🛠️ <a href="#tools">TOOLS I USE</a><br><br>
-📊 <a href="#stats">COOL STATS</a><br><br>
-🎮 <a href="#games">GAMES</a><br><br>
-📝 <a href="#guestbook">GUESTBOOK</a><br><br>
+📧 <a href="#about">ABOUT</a><br><br>
+💻 <a href="#projects">PROJECTS</a><br><br>
+🛠️ <a href="#tools">TOOLS</a><br><br>
+📊 <a href="#stats">STATS</a><br><br>
+📝 <a href="#contact">CONTACT</a><br><br>
 </font>
 
 <div align="center">
 <br>
-<img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="40">
-<br><br>
 
 <!-- SPACE FOR ANIME PICTURE -->
-<table border="2" bordercolor="#ff00ff" bgcolor="#ffffff" cellpadding="5">
-<tr><td>
-<font color="#000000" size="2"><b>🌸 ANIME CORNER 🌸</b></font><br>
-<i>// Insert your favorite anime pic here! //</i><br>
-<div style="width: 150px; height: 200px; border: 2px dashed #ff00ff; display: flex; align-items: center; justify-content: center; color: #ff00ff;">
+<table border="2" bordercolor="#ff00ff" bgcolor="#ffffff" cellpadding="3" width="140">
+<tr><td align="center">
+<font color="#000000" size="2"><b>🌸 ANIME 🌸</b></font><br>
+<div style="width: 120px; height: 140px; border: 2px dashed #ff00ff; display: flex; align-items: center; justify-content: center; color: #ff00ff; font-size: 12px;">
 ANIME PIC<br>GOES HERE
 </div>
 </td></tr>
 </table>
 
+<br>
+<img src="https://komarev.com/ghpvc/?username=samyaksgupta&label=VISITORS&color=ff00ff&style=flat-square" alt="Visitor Counter" width="140"/>
+
 </div>
 
 </td>
-<td valign="top" bgcolor="#000020">
+<td width="75%" valign="top" bgcolor="#000020">
 
 <div align="center">
-<img src="https://web.archive.org/web/20091027002235/http://geocities.com/enchantedforest/dell/5046/earth.gif" width="60">
+<img src="https://web.archive.org/web/20091027002235/http://geocities.com/enchantedforest/dell/5046/earth.gif" width="40">
 <br>
-<font face="Courier New" size="5" color="#00ff00">DEAN HAROLD P. ABAD</font>
+<font face="Courier New" size="4" color="#00ff00">SAMYAKS GUPTA</font>
 <br>
-<font face="Arial" size="3" color="#ffff00">Pixel Artist • Game Developer • Code Wizard</font>
+<font face="Arial" size="2" color="#ffff00">Developer • AI/ML • C++ • Game Dev</font>
 <br><br>
 </div>
 
 <img src="https://web.archive.org/web/20091027161503/http://geocities.com/enchantedforest/dell/5046/rainline.gif" width="100%">
 
 <a name="about"></a>
-<table width="100%" border="2" bordercolor="#ffff00" cellpadding="8" bgcolor="#000080">
+<table width="100%" border="2" bordercolor="#ffff00" cellpadding="6" bgcolor="#000080">
 <tr><td>
-<font face="Impact" size="4" color="#ffff00">📋 ABOUT.TXT</font>
+<font face="Impact" size="3" color="#ffff00">📋 ABOUT.TXT</font>
 <br><br>
 <font face="Courier New" size="2" color="#ffffff">
-var name = "DeanAbad";<br>
-var langs = [ "C++", "Python"];<br>
-var scripts = ["GDScript", "JavaScript"];<br>
+> whoami<br>
+samyaksgupta - A developer/aiml/c++/gamedev<br>
 <br>
-console.log("Welcome to my digital space!");<br>
-<br>
-Located in: Quezon City, NCR, Philippines 🇵🇭<br>
-Currently: Making pixel art magic happen ✨<br>
-Interests: Godot Engine, Aseprite, Web Development<br>
-Status: Online and ready to code! 🚀<br>
+> cat about.txt<br>
+👋 Greetings, I'm @samyaksgupta<br>
+👀 Focused on: Low Level Coding mostly in c++<br>
+🌱 Currently Learning: DSA, Flutter, JavaScript, Game development<br>
+📫 Send message: https://instagram.com/samyaksgupta<br>
 </font>
 </td></tr>
 </table>
@@ -96,31 +86,30 @@ Status: Online and ready to code! 🚀<br>
 <br>
 
 <a name="tools"></a>
-<table width="100%" border="2" bordercolor="#ff00ff" cellpadding="8" bgcolor="#000080">
+<table width="100%" border="2" bordercolor="#ff00ff" cellpadding="6" bgcolor="#000080">
 <tr><td>
-<font face="Impact" size="4" color="#ff00ff">🛠️ MY DIGITAL TOOLBOX</font>
+<font face="Impact" size="3" color="#ff00ff">🛠️ TECH STACK</font>
 <br><br>
 
-<table width="100%" cellpadding="5">
-<tr>
-<td align="center" bgcolor="#000040">
-<font color="#00ffff" size="3"><b>MAIN TOOLS</b></font><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" title="Godot Engine">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" width="40" title="C++">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" title="Python">
-<br>
-<font size="2">Godot • C++ • Python</font>
-</td>
-<td align="center" bgcolor="#000040">
-<font color="#ff9900" size="3"><b>SECONDARY</b></font><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript">
-<br>
-<font size="2">HTML • CSS • JS</font>
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="35" alt="ubuntu" title="Ubuntu">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" title="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker" title="Docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter" title="Flutter">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="35" alt="godot" title="Godot">
+<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="gcp" title="Google Cloud">
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="35" alt="bash" title="Bash">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi" title="FastAPI">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" title="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css" title="CSS3">
+<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript" title="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" title="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs" title="Next.js">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="35" alt="raspberry pi" title="Raspberry Pi">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="tensorflow" title="TensorFlow">
+</div>
 
 </td></tr>
 </table>
@@ -128,86 +117,75 @@ Status: Online and ready to code! 🚀<br>
 <br>
 
 <a name="projects"></a>
-<table width="100%" border="2" bordercolor="#00ff00" cellpadding="8" bgcolor="#000080">
+<table width="100%" border="2" bordercolor="#00ff00" cellpadding="6" bgcolor="#000080">
 <tr><td>
-<font face="Impact" size="4" color="#00ff00">💾 SOME WORKS (DONE & WIPs)</font>
+<font face="Impact" size="3" color="#00ff00">💾 RECENT PROJECTS & LEARNING</font>
 <br><br>
 <font face="Arial" size="2" color="#ffffff">
-Consists of my atrocities with GDScript, C++, Python, and JavaScript. 
-'Atrocities' is they don't do anything much, but I still love them. 
-Therefore, I put them here in this hellpit.
-<br><br>
-
-<img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="20"> 
-<font color="#ffff00">Current Project:</font> Pixel Art Adventure Game<br>
-<img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="20"> 
-<font color="#ffff00">Recent:</font> 2D Platformer Engine in Godot<br>
-<img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="20"> 
-<font color="#ffff00">Learning:</font> Advanced Animation Techniques<br>
+<img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="15"> 
+<font color="#ffff00">July 18, 2025:</font> Pushed Perplexity AI clone based in Flutter<br>
+<img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="15"> 
+<font color="#ffff00">July 10, 2025:</font> Dockerized a bunch of stuff bro its amazing<br>
+<img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="15"> 
+<font color="#ffff00">July 8, 2025:</font> Integrated Helius API for Solana token tracking<br>
+<img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="15"> 
+<font color="#ffff00">June 25, 2025:</font> Learning more about Automation And Stuff<br>
+<img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="15"> 
+<font color="#ffff00">June 20, 2025:</font> Connected frontend with prompt-based image generation<br>
 </font>
 </td></tr>
 </table>
-
-<br>
-
-<div align="center">
-<table border="2" bordercolor="#ff00ff" cellpadding="5" bgcolor="#000080">
-<tr><td align="center">
-<font face="Comic Sans MS" size="3" color="#ff00ff">🔗 FIND ME ON THE WEB 🔗</font>
-<br><br>
-<a href="https://deanabad.github.io/Personal_Portfolio/">🌐 WEBSITE</a> • 
-<a href="https://youtube.com/@deanabad">📺 YOUTUBE</a> • 
-<a href="https://itch.io/@deanabad">🎮 ITCH.IO</a>
-<br>
-<a href="https://github.com/deanabad">💻 GITHUB</a> • 
-<a href="https://codepen.io/deanabad">✏️ CODEPEN</a> • 
-<a href="https://freecodecamp.org/deanabad">🆓 FREECODECAMP</a>
-</td></tr>
-</table>
-</div>
 
 <br>
 
 <a name="stats"></a>
 <div align="center">
-<img src="https://web.archive.org/web/20091027144616/http://geocities.com/enchantedforest/dell/5046/construction2.gif" width="60">
-<font face="Impact" size="4" color="#ffff00">⚡ VISITOR STATS & INFO ⚡</font>
-<img src="https://web.archive.org/web/20091027144616/http://geocities.com/enchantedforest/dell/5046/construction2.gif" width="60">
+<img src="https://web.archive.org/web/20091027144616/http://geocities.com/enchantedforest/dell/5046/construction2.gif" width="40">
+<font face="Impact" size="3" color="#ffff00">⚡ GITHUB STATS ⚡</font>
+<img src="https://web.archive.org/web/20091027144616/http://geocities.com/enchantedforest/dell/5046/construction2.gif" width="40">
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=deanabad&label=VISITORS&color=ff00ff&style=for-the-badge" alt="Visitor Counter" />
-<br><br>
-
-<table border="2" bordercolor="#00ffff" cellpadding="10" bgcolor="#000040">
-<tr>
-<td align="center">
-<font color="#00ffff" size="3"><b>📊 GITHUB STATS</b></font><br><br>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=deanabad&show_icons=true&theme=radical&hide_border=true&bg_color=000040&title_color=ff00ff&text_color=ffffff&icon_color=00ffff"/>
-</td>
-<td align="center">
-<font color="#00ffff" size="3"><b>💻 TOP LANGUAGES</b></font><br><br>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanabad&layout=compact&theme=radical&hide_border=true&bg_color=000040&title_color=ff00ff&text_color=ffffff"/>
-</td>
-</tr>
-</table>
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=samyaksgupta&show_icons=true&theme=radical&hide_border=true&bg_color=000040&title_color=ff00ff&text_color=ffffff&icon_color=00ffff"/>
+<br>
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyaksgupta&layout=compact&theme=radical&hide_border=true&bg_color=000040&title_color=ff00ff&text_color=ffffff"/>
 
 </div>
 
 <br>
 
-<a name="guestbook"></a>
-<table width="100%" border="2" bordercolor="#ffff00" cellpadding="8" bgcolor="#000080">
+<table width="100%" border="2" bordercolor="#ffff00" cellpadding="6" bgcolor="#000080">
 <tr><td>
-<font face="Impact" size="4" color="#ffff00">📝 SIGN MY GUESTBOOK!</font>
+<font face="Impact" size="3" color="#ffff00">🚧 CURRENTLY LEARNING 🚧</font>
 <br><br>
 <font face="Arial" size="2" color="#ffffff">
-Leave a ⭐ on my repos if you like what you see!<br>
-Or drop me a line at: <a href="mailto:deanharoldpabad@gmail.com">deanharoldpabad@gmail.com</a>
-<br><br>
-<i>Thanks for visiting my corner of cyberspace! 🌐</i>
+<img src="https://web.archive.org/web/20091027144616/http://geocities.com/enchantedforest/dell/5046/construction2.gif" width="20"> 
+<font color="#00ff00">Learning DSA like a 1337 h4x0r</font><br><br>
+<img src="https://web.archive.org/web/20091027144616/http://geocities.com/enchantedforest/dell/5046/construction2.gif" width="20"> 
+<font color="#00ff00">Building Flutter apps that are cost effective & optimised</font><br><br>
+<img src="https://web.archive.org/web/20091027144616/http://geocities.com/enchantedforest/dell/5046/construction2.gif" width="20"> 
+<font color="#00ff00">JavaScript in progress...</font><br><br>
+<img src="https://web.archive.org/web/20091027144616/http://geocities.com/enchantedforest/dell/5046/construction2.gif" width="20"> 
+<font color="#00ff00">Raspberry Pi experiments</font><br>
 </font>
 </td></tr>
 </table>
+
+<br>
+
+<a name="contact"></a>
+<div align="center">
+<table border="2" bordercolor="#ff00ff" cellpadding="5" bgcolor="#000080" width="90%">
+<tr><td align="center">
+<font face="Comic Sans MS" size="3" color="#ff00ff">📧 FIND ME ON THE INTERWEBS 📧</font>
+<br><br>
+<font face="Arial" size="2">
+<a href="https://instagram.com/samyaksgupta">📱 INSTAGRAM</a> • 
+<a href="https://github.com/samyaksgupta">💻 GITHUB</a> • 
+<a href="mailto:contact@samyaks.dev">📧 EMAIL</a>
+</font>
+</td></tr>
+</table>
+</div>
 
 </td>
 </tr>
@@ -216,36 +194,35 @@ Or drop me a line at: <a href="mailto:deanharoldpabad@gmail.com">deanharoldpabad
 <br>
 
 <div align="center">
-<img src="https://web.archive.org/web/20091027161503/http://geocities.com/enchantedforest/dell/5046/rainline.gif" width="500">
+<img src="https://web.archive.org/web/20091027161503/http://geocities.com/enchantedforest/dell/5046/rainline.gif" width="400">
 <br><br>
 
-<img src="https://web.archive.org/web/20091027231345/http://geocities.com/enchantedforest/dell/5046/netscape.gif" width="88" title="Best Viewed with Netscape">
-<img src="https://web.archive.org/web/20091027231753/http://geocities.com/enchantedforest/dell/5046/notepad.gif" width="88" title="Made with Notepad">
-<img src="https://web.archive.org/web/20091027232028/http://geocities.com/enchantedforest/dell/5046/coffee.gif" width="88" title="Powered by Coffee">
+<img src="https://web.archive.org/web/20091027231345/http://geocities.com/enchantedforest/dell/5046/netscape.gif" width="80" title="Best Viewed with Netscape">
+<img src="https://web.archive.org/web/20091027231753/http://geocities.com/enchantedforest/dell/5046/notepad.gif" width="80" title="Made with Notepad">
+<img src="https://web.archive.org/web/20091027232028/http://geocities.com/enchantedforest/dell/5046/coffee.gif" width="80" title="Powered by Coffee">
 
 <br><br>
 
-<marquee behavior="scroll" direction="left" bgcolor="#ff0000" width="80%">
-<font color="#ffff00" face="Comic Sans MS" size="3">
-🌟 Thanks for visiting! Come back soon! 🌟 This site is under eternal construction! 🚧
+<table width="60%" bgcolor="#ff0000" cellpadding="3">
+<tr><td align="center">
+<font color="#ffff00" face="Comic Sans MS" size="2">
+🌟 Thanks for visiting! Come back soon! 🌟
 </font>
-</marquee>
+</td></tr>
+</table>
 
-<br><br>
+<br>
 
 <font face="Courier New" color="#888888" size="2">
-© 2025 Dean Harold P. Abad - All Rights Reserved<br>
-Last updated: When dial-up was still a thing<br>
-This page is best viewed with eyes wide open 👀<br>
+© 2025 Samyaks Gupta - All Rights Reserved<br>
+Last updated: When Y2K was still a thing<br>
+This page is best viewed with your eyes open 👀<br>
 <br>
 <i>Disclaimer: No pixels were harmed in the making of this README</i>
 </font>
 
 <br><br>
 
-<img src="https://web.archive.org/web/20091027232508/http://geocities.com/enchantedforest/dell/5046/thankyou.gif" width="200" alt="Thanks for Visiting">
+<img src="https://web.archive.org/web/20091027232508/http://geocities.com/enchantedforest/dell/5046/thankyou.gif" width="150" alt="Thanks for Visiting">
 
 </div>
-
-</body>
-</html>
