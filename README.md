@@ -14,9 +14,9 @@
 
 <br>
 
-<table width="100%" border="2" bordercolor="#00ffff" cellpadding="8" cellspacing="3" bgcolor="#000040">
+<table width="100%" border="2" bordercolor="#00ffff" cellpadding="10" cellspacing="0" bgcolor="#000040">
 <tr>
-<td width="25%" valign="top" bgcolor="#000080">
+<td width="30%" valign="top" bgcolor="#000080">
 
 <div align="center">
 <img src="https://web.archive.org/web/20091027144705/http://geocities.com/enchantedforest/dell/5046/construction.gif" width="120">
@@ -37,22 +37,22 @@
 <br>
 
 <!-- SPACE FOR ANIME PICTURE -->
-<table border="2" bordercolor="#ff00ff" bgcolor="#ffffff" cellpadding="3" width="140">
+<table border="2" bordercolor="#ff00ff" bgcolor="#ffffff" cellpadding="5" width="200">
 <tr><td align="center">
-<font color="#000000" size="2"><b>🌸 ANIME 🌸</b></font><br>
-<div style="width: 120px; height: 140px; border: 2px dashed #ff00ff; display: flex; align-items: center; justify-content: center; color: #ff00ff; font-size: 12px;">
+<font color="#000000" size="2"><b>🌸 ANIME CORNER 🌸</b></font><br>
+<div style="width: 180px; height: 200px; border: 2px dashed #ff00ff; display: flex; align-items: center; justify-content: center; color: #ff00ff; font-size: 14px;">
 ANIME PIC<br>GOES HERE
 </div>
 </td></tr>
 </table>
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=samyaksgupta&label=VISITORS&color=ff00ff&style=flat-square" alt="Visitor Counter" width="140"/>
+<img src="https://komarev.com/ghpvc/?username=samyaksgupta&label=VISITORS&color=ff00ff&style=flat-square" alt="Visitor Counter" width="200"/>
 
 </div>
 
 </td>
-<td width="75%" valign="top" bgcolor="#000020">
+<td width="70%" valign="top" bgcolor="#000020">
 
 <div align="center">
 <img src="https://web.archive.org/web/20091027002235/http://geocities.com/enchantedforest/dell/5046/earth.gif" width="40">
